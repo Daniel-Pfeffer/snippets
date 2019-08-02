@@ -17,5 +17,5 @@ this.ajax.ajaxCall(this.config).then(data => {
 ```
 ## TODO
 
-add better uri config
+add better uri config\
 add post method
