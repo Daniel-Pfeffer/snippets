@@ -15,3 +15,7 @@ this.ajax.ajaxCall(this.config).then(data => {
   });
 // async to ajaxCall
 ```
+## TODO
+
+add better uri config
+add post method
